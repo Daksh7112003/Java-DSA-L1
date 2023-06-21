@@ -28,7 +28,7 @@ a1[i] = sc.nextInt();
                 if(i>=0){
                     d+=a1[i];
                 }
-                if(j>0){
+                if(j>=0){
                     d+=a2[j];
 
                 }
