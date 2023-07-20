@@ -19,7 +19,7 @@ public static int lastindex(int arr[] , int idx, int x ){
         return -1 ;
 
     }
-    int li = lastindex(arr, idx+1, x);
+    int lisa = lastindex(arr, idx+1, x);
     if(li==-1){
         if(arr[idx]==x){
             return idx;
