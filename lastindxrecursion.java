@@ -20,7 +20,7 @@ public static int lastindex(int arr[] , int idx, int x ){
 
     }
     int lisa = lastindex(arr, idx+1, x);
-    if(li==-1){
+    if(lisa==-1){
         if(arr[idx]==x){
             return idx;
         }
