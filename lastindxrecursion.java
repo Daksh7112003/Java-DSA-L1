@@ -10,8 +10,8 @@ public class lastindxrecursion {
 
         }
 int d =sc.nextInt();
-int lii= lastindex(arr, 0, d);
-System.out.println(lii);
+int count= lastindex(arr, 0, d);
+System.out.println(count);
     }
 
 public static int lastindex(int arr[] , int idx, int x ){
