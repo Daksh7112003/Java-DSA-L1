@@ -29,7 +29,7 @@ public static int lastindex(int arr[] , int idx, int x ){
         }
     }
     else{
-            return li;
+            return lisa;
 
         
     }
