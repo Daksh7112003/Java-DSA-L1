@@ -10,21 +10,21 @@ public class recursionpepcoding {
 //		// printing decreasing solution using recursion
 //		
 	Scanner sc = new Scanner(System.in);
-//		
+		
 //		//  note point: in  psvdthrows exception 
 //		
 //		
 //		
 //		int n = sc.nextInt();
-//		pdi(n);
-//}
-//	public static void pdi(int n){
-//		if(n==0) {
-//			return;
-//		}
-//		System.out.println(n);
-//		pdi(n-1);
-//		System.out.println(n);
+		pdi(n);
+}
+	public static void pdi(int n){
+		if(n==0) {
+			return;
+		}
+		System.out.println(n);
+		pdi(n-1);
+		System.out.println(n);
 
 	
 		
