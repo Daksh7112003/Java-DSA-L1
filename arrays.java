@@ -1,5 +1,4 @@
-	////	pepcoding 
-		
+
 	//	span of a array
 		
 		
