@@ -28,7 +28,7 @@
 		
 		
 		
-		find element in  array 
+	//	find element in  array 
 		  
 		  
 		 int n =  sc.nextInt();
