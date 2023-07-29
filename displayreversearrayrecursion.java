@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class displayreversearrayrecursion {
@@ -8,11 +7,8 @@ public class displayreversearrayrecursion {
         int arr[] =  new int[n];
         for(int i =0 ; i<n ;i++){
             arr[i]= sc.nextInt();
-
-
         }
         dar(arr,0);
-
     }
 
     public static void dar(int arr[], int idx){
