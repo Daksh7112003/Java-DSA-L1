@@ -1,4 +1,3 @@
-
 	//	span of a array
 		
 		
