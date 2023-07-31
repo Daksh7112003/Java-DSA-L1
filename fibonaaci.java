@@ -13,17 +13,7 @@ public class fibonaaci {
             int c= a+b;
             a=b;
             b=c;
-            
 
-            
-
-
-            
-
-        }
-    
-        
+        } 
     }
-    
-
 }
