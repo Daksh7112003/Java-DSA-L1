@@ -1,3 +1,8 @@
+import java.util.*;
+
+public class getsubsequence {
+public static void main(String[] args) { 
+ Scanner sc = new Scanner(System.in);
  ArrayList<Integer> list= new ArrayList<>();
     list.add(10);
     list.add(20);
