@@ -50,7 +50,7 @@
 		
 		
 		
-	//	bar chart 
+	//	bar chart of an array
 		
     
 		int n  = sc.nextInt();
