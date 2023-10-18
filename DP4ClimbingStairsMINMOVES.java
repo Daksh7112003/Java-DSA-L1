@@ -31,7 +31,9 @@ public class DP4ClimbingStairsMINMOVES {
         }
         
     }
+    
     System.out.println(dp[0]);
+    
 
     }
 }
