@@ -8,7 +8,6 @@ public class DP11Unboundknapack {
     for(int i  = 0   ; i  < n  ; i++){
         vals[i]=sc.nextInt();
 
-
     }
     int wts[] =new int[n];
     for(int  i = 0 ; i < n ; i++){
