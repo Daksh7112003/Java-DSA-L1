@@ -6,8 +6,7 @@ import java.util.*;
 public class recursionpepcoding {
 
 	//public static void main(String[] args) throws Exception {
-		
-//		// printing decreasing solution using recursion
+		//		// printing decreasing solution using recursion
 //		
 	Scanner sc = new Scanner(System.in);
 		
