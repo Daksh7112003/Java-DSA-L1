@@ -1,6 +1,6 @@
- import java.util.*;
+import java.util.*;
 import java.io.*;
-public class S4nxtgrterelementtotheright{
+ public class S4nxtgrterelementtotheright{
  public static void display(int[] a){
     StringBuilder sb = new StringBuilder();
 
