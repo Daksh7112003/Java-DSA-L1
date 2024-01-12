@@ -20,6 +20,7 @@ public static void main(String[] args) throws Exception {
     }
 
     int[] nge = solve(a);
+ 
     display(nge);
  }
 
