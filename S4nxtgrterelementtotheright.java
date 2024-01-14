@@ -54,9 +54,6 @@ st.push(arr[i]);
 } 
 
 
-
-
-
    return nge;
 
  }
