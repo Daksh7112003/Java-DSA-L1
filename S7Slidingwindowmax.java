@@ -46,7 +46,8 @@ nge[i]=st.peek();
        System.out.println(arr[j]);
      }
 
-     
+
+  
 
    }  
 
